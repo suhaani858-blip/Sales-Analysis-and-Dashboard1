@@ -46,3 +46,9 @@ This project helped develop practical skills in Microsoft Excel, sales data anal
 8. Conclusion
 
 This project demonstrates the use of Microsoft Excel to analyse sales data and communicate business performance through visual reporting.
+
+View Project Dashboard
+
+The interactive Excel Sales Dashboard is available through the link below:
+
+https://docs.google.com/document/d/12I9MzYwwTJMRg9yqliDOkKdm1EDlsNiJWqjG3heC8VU/edit?usp=drivesdk
